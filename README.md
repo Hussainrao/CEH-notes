@@ -271,3 +271,28 @@ ALL PROGRAMS--SECURITY--PASSWORDS--NT WIERD
   1234
   reboot -f 
   this process will change the password for the user you choose and help to get into the linux system without losing data
+
+
+
+SNIFFING
+
+BETTER CAP
+ETTER CAP (for capturing packets)
+MACOF  (to use flood attack)
+mac -i s <attacker ip>
+
+
+to change the mac address of the device
+macchanger -r eth0
+
+techtetnium MAC changer windows(HW)
+
+ARPSPOOF(hw)
+
+DHCP (dynamic host configuration protocol)
+in the network ip is given by dhcp DORA process is used to send fake packets and server has limited requests so dhcp server become down so the all user connected to the internet they become disconnected DHCP starvation.
+
+Tool (yersinia)
+yersinia -I 
+
+
